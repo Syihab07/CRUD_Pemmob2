@@ -41,3 +41,10 @@ Dashboard
 Add Task
 
 <img width="600" height="1600" alt="image" src="https://github.com/user-attachments/assets/4fcfa98b-952b-4a65-bde8-c702700aa4f0" />
+
+Video Demo
+
+
+
+https://github.com/user-attachments/assets/bf5924cf-5949-4c1a-bbf0-cf5df6dfc279
+
